@@ -1,0 +1,27 @@
+{
+  "id": "fd85da1f-717f-4a85-98b6-5cf4d6578560",
+  "name": "what-can-you-do",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "Ayudo a los usuarios a obtener información del clima relacionadas con actividades al aire libre o con si necesitarán una chaqueta para esta noche. ¿Está nevando ahora en Pekín? ¿Lloverá en Abril en Sevilla? ¿Puedes salir a correr ahora y no mojarte? Pregúntame y te respondo. Lo sé todo."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

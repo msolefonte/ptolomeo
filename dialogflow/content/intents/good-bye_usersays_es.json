@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1ea8a806-206b-4ba5-9547-4cbe7cc23db1",
+    "data": [
+      {
+        "text": "Adiós",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "624dd1dc-36e7-426d-b1d0-f9eff9f0106d",
+    "data": [
+      {
+        "text": "adios",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,93 @@
+{
+  "id": "9c17c01c-68a6-4b2b-b461-a0e04cd9bb08",
+  "name": "weather - context:weather - comment:address \u0026 date-time",
+  "auto": true,
+  "contexts": [
+    "weather"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "#weather.intent_action",
+      "affectedContexts": [
+        {
+          "name": "weather",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "98c2784f-a7a8-4408-8a8e-ecea42e3d517",
+          "required": false,
+          "dataType": "@sys.location",
+          "name": "address",
+          "value": "$address",
+          "isList": false
+        },
+        {
+          "id": "9afbf927-a82d-43de-884e-6f74f2195a38",
+          "required": false,
+          "dataType": "@sys.date-time",
+          "name": "date-time",
+          "value": "$date-time",
+          "isList": false
+        },
+        {
+          "id": "dfa114f4-20ac-41bd-a893-bc4e149b6bf0",
+          "required": false,
+          "dataType": "@activity",
+          "name": "activity",
+          "value": "#weather.activity",
+          "isList": false
+        },
+        {
+          "id": "1efabf3d-1405-4bd4-bffa-ddb636458779",
+          "required": false,
+          "dataType": "@weather-condition",
+          "name": "condition",
+          "value": "#weather.condition",
+          "isList": false
+        },
+        {
+          "id": "bc67022b-f29f-40ec-8bfa-f029e2f8c711",
+          "required": false,
+          "dataType": "@outfit",
+          "name": "outfit",
+          "value": "#weather.outfit",
+          "isList": false
+        },
+        {
+          "id": "e926c6f6-6288-4c45-b9ca-36ba414d467e",
+          "required": false,
+          "dataType": "@temperature",
+          "name": "temperature",
+          "value": "#weather.temperature",
+          "isList": false
+        },
+        {
+          "id": "cab1b10e-7a09-4a1e-a396-96e7688ee185",
+          "required": false,
+          "dataType": "@unit-temperature",
+          "name": "unit",
+          "value": "#weather.unit",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

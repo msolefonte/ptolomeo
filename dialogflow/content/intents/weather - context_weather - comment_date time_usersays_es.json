@@ -1,0 +1,221 @@
+[
+  {
+    "id": "40b7e445-33ea-49ce-8a25-60046107dbe3",
+    "data": [
+      {
+        "text": "¿Y ",
+        "userDefined": false
+      },
+      {
+        "text": "mañana",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7895e4b3-9684-4cce-8906-cbda0603a9f8",
+    "data": [
+      {
+        "text": "loverá ",
+        "userDefined": false
+      },
+      {
+        "text": "hoy",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f573ad48-f205-49f7-9a8a-82f694166a56",
+    "data": [
+      {
+        "text": "y el ",
+        "userDefined": false
+      },
+      {
+        "text": "sábado",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c0fb960f-adfb-4ba6-b809-b8592346420d",
+    "data": [
+      {
+        "text": "y por la ",
+        "userDefined": false
+      },
+      {
+        "text": "mañana",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      },
+      {
+        "text": " cómo estará",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7c8cf59a-ffdb-4ad8-8a8f-307535d7579c",
+    "data": [
+      {
+        "text": "y a las ",
+        "userDefined": false
+      },
+      {
+        "text": "9 de la tarde",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "95b7ea1e-1cee-4608-acb9-ad37fb78bdbd",
+    "data": [
+      {
+        "text": "y ",
+        "userDefined": false
+      },
+      {
+        "text": "mañana",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      },
+      {
+        "text": " qué tal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "95d0e489-6d9f-439d-9c63-f6a2bcb5940e",
+    "data": [
+      {
+        "text": "y ",
+        "userDefined": false
+      },
+      {
+        "text": "el 19 de septiembre",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6b3febc4-89d7-4f68-bbc8-ac7118d44809",
+    "data": [
+      {
+        "text": "y ",
+        "userDefined": false
+      },
+      {
+        "text": "hoy",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fcc27c5d-a362-4c25-a53c-2ee208f70c2e",
+    "data": [
+      {
+        "text": "dije ",
+        "userDefined": false
+      },
+      {
+        "text": "mañana",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "73022080-6d40-45ae-9961-b08bebecbc3f",
+    "data": [
+      {
+        "text": "y para ",
+        "userDefined": false
+      },
+      {
+        "text": "este finde",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bda08cf6-acd8-46d1-b157-07588c49564b",
+    "data": [
+      {
+        "text": "cómo",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " estará ",
+        "userDefined": false
+      },
+      {
+        "text": "este martes",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

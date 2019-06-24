@@ -1,0 +1,50 @@
+{
+  "description": "Ayudo a los usuarios a obtener información del clima relacionadas con actividades al aire libre o con si necesitarán una chaqueta para esta noche. ¿Está nevando ahora en Pekín? ¿Lloverá en Abril en Sevilla? ¿Puedes salir a correr y no mojarte? Pregúntame y te respondo. Lo sé todo. Además, sirvo de ejemplo para explicar lo básico de una arquitectura serverless, ya que todas las preguntas que me hacen son procesadas y respondidas por servicios desplegados en Amazon Web Services.",
+  "language": "es",
+  "shortDescription": "Weather and forecast related conversations",
+  "examples": "User: ¿Qué tiempo hace en Nueva York esta mañana?\nUser: ¿Y en Madrid?\n\nUser: ¿Va a llover el viernes?\nUser: ¿Y el sábado?\n\nUser: ¿Qué tiempo hará en Barcelona?\n\nUser: ¿Necesitaré chaqueta?\nUser: ¿Hace buen tiempo para jugar a frisbee fuera?\n\nUser: ¿Es buena idea hacer senderismo ahora mismo?\nUser: ¿Y el fin de semana?\n\nUser: ¿Sabes si ahora hace frío fuera?\nUser: ¿Lloverá por la tarde?\n\nUser: ¿Necesitaré un paraguas el próximo viernes en París?",
+  "linkToDocs": "",
+  "activeAssistantAgents": [],
+  "disableInteractionLogs": false,
+  "disableStackdriverLogs": true,
+  "googleAssistant": {
+    "googleAssistantCompatible": false,
+    "project": "ptolomeo-19306",
+    "welcomeIntentSignInRequired": false,
+    "startIntents": [],
+    "systemIntents": [],
+    "endIntentIds": [
+      "7bd5aa93-9b81-49f9-8c9f-4477b5c2f1a2",
+      "83233ae7-ccb6-4a57-9308-d05278feece9"
+    ],
+    "oAuthLinking": {
+      "required": false,
+      "grantType": "AUTH_CODE_GRANT"
+    },
+    "voiceType": "MALE_1",
+    "capabilities": [],
+    "protocolVersion": "V2",
+    "isDeviceAgent": false
+  },
+  "defaultTimezone": "Europe/Madrid",
+  "webhook": {
+    "url": "",
+    "username": "",
+    "headers": {
+      "": ""
+    },
+    "available": true,
+    "useForDomains": false,
+    "cloudFunctionsEnabled": false,
+    "cloudFunctionsInitialized": false
+  },
+  "isPrivate": true,
+  "customClassifierMode": "use.instead",
+  "mlMinConfidence": 0.3,
+  "supportedLanguages": [],
+  "onePlatformApiVersion": "v2",
+  "analyzeQueryTextSentiment": false,
+  "enabledKnowledgeBaseNames": [],
+  "knowledgeServiceConfidenceAdjustment": -0.4,
+  "dialogBuilderMode": false
+}

@@ -1,0 +1,67 @@
+config:
+  target: '<TARGET_URL>'
+  phases:
+    - duration: 30
+      arrivalRate: 0
+      rampTo: 100
+  defaults:
+    headers:
+      x-my-service-auth: '987401838271002188298567'
+scenarios:
+  - flow:
+    - post:
+        url: "/dev/weather"
+        auth:
+          user: <USERNAME>
+          pass: <PASSWORD>
+          json:
+            responseId: 1efed1a4-dd06-4117-a989-d1888cd68bad-273dd5df
+            queryResult:
+              queryText: "¿Qué tiempo hace en Madrid?"
+              action: weather
+              parameters:
+                address:
+                  country: ''
+                  city: Madrid
+                  admin-area: ''
+                  business-name: ''
+                  street-address: ''
+                  zip-code: ''
+                  shortcut: ''
+                  island: ''
+                  subadmin-area: ''
+                date-time: ''
+                unit: ''
+              allRequiredParamsPresent: true
+              fulfillmentMessages:
+              - text:
+                  text:
+                  - ''
+              outputContexts:
+              - name: projects/ptolomeo-19306/agent/sessions/5b484dbd-e07c-7eae-2d5e-a9dd127547e0/contexts/weather
+                lifespanCount: 2
+                parameters:
+                  address:
+                    country: ''
+                    city: Madrid
+                    admin-area: ''
+                    business-name: ''
+                    street-address: ''
+                    zip-code: ''
+                    shortcut: ''
+                    island: ''
+                    subadmin-area: ''
+                  address.original: Madrid
+                  date-time: ''
+                  date-time.original: ''
+                  unit: ''
+                  unit.original: ''
+              intent:
+                name: projects/ptolomeo-19306/agent/intents/f1b75ecb-a35f-4a26-88fb-5a8049b92b02
+                displayName: weather
+              intentDetectionConfidence: 1
+              languageCode: es
+            originalDetectIntentRequest:
+              payload: {}
+            session: projects/ptolomeo-19306/agent/sessions/5b484dbd-e07c-7eae-2d5e-a9dd127547e0
+

@@ -1,0 +1,30 @@
+{
+  "id": "7bd5aa93-9b81-49f9-8c9f-4477b5c2f1a2",
+  "name": "good-bye",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": [
+            "¡Nos vemos pronto!",
+            "¡Adiós! ¡Que el tiempo te sonría."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

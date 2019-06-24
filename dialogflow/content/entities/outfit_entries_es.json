@@ -1,0 +1,88 @@
+[
+  {
+    "value": "cap",
+    "synonyms": [
+      "gorra"
+    ]
+  },
+  {
+    "value": "coat",
+    "synonyms": [
+      "abrigo"
+    ]
+  },
+  {
+    "value": "dress",
+    "synonyms": [
+      "vestido"
+    ]
+  },
+  {
+    "value": "flipflops",
+    "synonyms": [
+      "cholas",
+      "sandalia",
+      "sandalias"
+    ]
+  },
+  {
+    "value": "gloves",
+    "synonyms": [
+      "guantes"
+    ]
+  },
+  {
+    "value": "jacket",
+    "synonyms": [
+      "chaqueta"
+    ]
+  },
+  {
+    "value": "poncho",
+    "synonyms": [
+      "poncho"
+    ]
+  },
+  {
+    "value": "raincoat",
+    "synonyms": [
+      "impermeable"
+    ]
+  },
+  {
+    "value": "scarf",
+    "synonyms": [
+      "bufanda"
+    ]
+  },
+  {
+    "value": "shorts",
+    "synonyms": [
+      "pantalones cortos"
+    ]
+  },
+  {
+    "value": "sunglasses",
+    "synonyms": [
+      "gafas de sol"
+    ]
+  },
+  {
+    "value": "sweater",
+    "synonyms": [
+      "suéter"
+    ]
+  },
+  {
+    "value": "sweatshirt",
+    "synonyms": [
+      "sudadera"
+    ]
+  },
+  {
+    "value": "umbrella",
+    "synonyms": [
+      "paraguas"
+    ]
+  }
+]

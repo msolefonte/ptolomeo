@@ -1,0 +1,65 @@
+[
+  {
+    "id": "d67fb5c1-55dd-4f7a-b792-e8c2bd23110d",
+    "data": [
+      {
+        "text": "y en cuanto a ",
+        "userDefined": false
+      },
+      {
+        "text": "esquiar",
+        "alias": "activity",
+        "meta": "@activity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "28347691-f89a-45a8-bfd7-17cdea2d31b2",
+    "data": [
+      {
+        "text": "y a ",
+        "userDefined": false
+      },
+      {
+        "text": "patinar",
+        "alias": "activity",
+        "meta": "@activity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "66983dda-df05-42df-809f-10ae4635b46c",
+    "data": [
+      {
+        "text": "y ",
+        "userDefined": false
+      },
+      {
+        "text": "para",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "acampar",
+        "alias": "activity",
+        "meta": "@activity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

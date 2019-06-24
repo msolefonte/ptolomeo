@@ -1,0 +1,678 @@
+[
+  {
+    "id": "ae5ba6dc-39a0-4cb9-8ff7-d57bef4d300f",
+    "data": [
+      {
+        "text": "hace buen tiempo para salir a ",
+        "userDefined": false
+      },
+      {
+        "text": "correr",
+        "alias": "activity",
+        "meta": "@activity",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "ee6121af-e51c-4577-a276-d49c761089d2",
+    "data": [
+      {
+        "text": "es buena idea hacer ",
+        "userDefined": false
+      },
+      {
+        "text": "senderismo",
+        "alias": "activity",
+        "meta": "@activity",
+        "userDefined": true
+      },
+      {
+        "text": " ahora mismo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ebc332f5-16e3-4b49-8c4d-b7423abff674",
+    "data": [
+      {
+        "text": "hace buen tiempo para ",
+        "userDefined": false
+      },
+      {
+        "text": "caminar",
+        "alias": "activity",
+        "meta": "@activity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "826b707b-cc28-42d1-a84f-bf83bfe4bd36",
+    "data": [
+      {
+        "text": "dime si hace buen tiempo para ",
+        "userDefined": false
+      },
+      {
+        "text": "ir a la playa",
+        "alias": "activity",
+        "meta": "@activity",
+        "userDefined": true
+      },
+      {
+        "text": " en ",
+        "userDefined": false
+      },
+      {
+        "text": "Torrevieja",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "hoy",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d54f14f2-0069-47c7-a90e-31964b9f15df",
+    "data": [
+      {
+        "text": "está bueno el tiempo para ",
+        "userDefined": false
+      },
+      {
+        "text": "caminar",
+        "alias": "activity",
+        "meta": "@activity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6096da3a-6ba1-4603-9864-b63edc0781f2",
+    "data": [
+      {
+        "text": "podré ir a ",
+        "userDefined": false
+      },
+      {
+        "text": "escalar a la montaña",
+        "alias": "activity",
+        "meta": "@activity",
+        "userDefined": true
+      },
+      {
+        "text": " el ",
+        "userDefined": false
+      },
+      {
+        "text": "jueves",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "updated": 0
+  },
+  {
+    "id": "213387a5-3e74-42e9-a547-40c45e374036",
+    "data": [
+      {
+        "text": "me gustaría saber si puedo ",
+        "userDefined": false
+      },
+      {
+        "text": "ir a la playa",
+        "alias": "activity",
+        "meta": "@activity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3923440c-c100-43fc-b3a5-8b258bd930d2",
+    "data": [
+      {
+        "text": "podré ",
+        "userDefined": false
+      },
+      {
+        "text": "ir a la playa",
+        "alias": "activity",
+        "meta": "@activity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "41c7a0a3-566b-47a2-ae15-db9288450d04",
+    "data": [
+      {
+        "text": "puedo ir a ",
+        "userDefined": false
+      },
+      {
+        "text": "caminar",
+        "alias": "activity",
+        "meta": "@activity",
+        "userDefined": true
+      },
+      {
+        "text": " ahora por ",
+        "userDefined": false
+      },
+      {
+        "text": "Madrid",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "19a69df6-609f-46dd-ba80-507110996510",
+    "data": [
+      {
+        "text": "es recomendable ",
+        "userDefined": false
+      },
+      {
+        "text": "salir",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ahora en ",
+        "userDefined": false
+      },
+      {
+        "text": "Murcia",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f81cb944-56ae-4b41-aa2d-94fad8d708fd",
+    "data": [
+      {
+        "text": "no sé si es bueno ",
+        "userDefined": false
+      },
+      {
+        "text": "ir a la playa",
+        "alias": "activity",
+        "meta": "@activity",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "mañana",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "19df8b76-204a-481e-93ea-7e2149267406",
+    "data": [
+      {
+        "text": "hace buen tiempo para ",
+        "userDefined": false
+      },
+      {
+        "text": "ir a la playa",
+        "alias": "activity",
+        "meta": "@activity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dab23e16-4eea-4c4a-823d-38f747565ac8",
+    "data": [
+      {
+        "text": "hace buen tiempo para ",
+        "userDefined": false
+      },
+      {
+        "text": "jugar a frisbee",
+        "alias": "activity",
+        "meta": "@activity",
+        "userDefined": true
+      },
+      {
+        "text": " fuera",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c81ec47e-cb0e-480c-894a-6243b04dabc5",
+    "data": [
+      {
+        "text": "puedo ir tranquilamente a ",
+        "userDefined": false
+      },
+      {
+        "text": "acampar",
+        "alias": "activity",
+        "meta": "@activity",
+        "userDefined": true
+      },
+      {
+        "text": " a la montaña",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f4bbc0bb-04b4-4eb7-a3ce-0d9a10bf97ef",
+    "data": [
+      {
+        "text": "el clima está a mi favor para ",
+        "userDefined": false
+      },
+      {
+        "text": "surfear",
+        "alias": "activity",
+        "meta": "@activity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c28c7bbe-26bd-40ef-93bf-fce509ef125b",
+    "data": [
+      {
+        "text": "infórmame si está bueno afuera para ",
+        "userDefined": false
+      },
+      {
+        "text": "caminar",
+        "alias": "activity",
+        "meta": "@activity",
+        "userDefined": true
+      },
+      {
+        "text": " por ",
+        "userDefined": false
+      },
+      {
+        "text": "Valencia",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d286a950-7e58-4278-bf1a-b4f9fca706bc",
+    "data": [
+      {
+        "text": "trotar",
+        "alias": "activity",
+        "meta": "@activity",
+        "userDefined": true
+      },
+      {
+        "text": " se puede ahora por el clima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4fcb9704-318b-452c-b931-b98db89694c0",
+    "data": [
+      {
+        "text": "no",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " podré ",
+        "userDefined": false
+      },
+      {
+        "text": "trotar",
+        "alias": "activity",
+        "meta": "@activity",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "por el",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " clima afuera",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "962b1024-0918-4ca2-8d16-e62344bc521c",
+    "data": [
+      {
+        "text": "informar ",
+        "userDefined": false
+      },
+      {
+        "text": "si",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " estará ",
+        "userDefined": false
+      },
+      {
+        "text": "bueno",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "mañana",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "para",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "caminar",
+        "alias": "activity",
+        "meta": "@activity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c0e22c44-2339-4306-b8dc-aa0efaf1f0a6",
+    "data": [
+      {
+        "text": "el tiempo afuera me permite ",
+        "userDefined": false
+      },
+      {
+        "text": "ir al parque",
+        "alias": "activity",
+        "meta": "@activity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5a391bb0-8f20-49ae-aaf0-f27d14ea6543",
+    "data": [
+      {
+        "text": "avísame si está bueno para salir a ",
+        "userDefined": false
+      },
+      {
+        "text": "correr",
+        "alias": "activity",
+        "meta": "@activity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "de32e4a5-879c-4b7b-a147-22f2ca2ad5d8",
+    "data": [
+      {
+        "text": "avisarme si está bueno el clima para ",
+        "userDefined": false
+      },
+      {
+        "text": "ir a la playa",
+        "alias": "activity",
+        "meta": "@activity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "17a59457-21af-4f43-9be1-a939c7df9257",
+    "data": [
+      {
+        "text": "se puede ir a ",
+        "userDefined": false
+      },
+      {
+        "text": "correr",
+        "alias": "activity",
+        "meta": "@activity",
+        "userDefined": true
+      },
+      {
+        "text": " con el clima de ",
+        "userDefined": false
+      },
+      {
+        "text": "Londres",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": " ahora",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e87e5c2f-bca8-492f-b6d4-9df5e1c2ac2b",
+    "data": [
+      {
+        "text": "me puedes decir cómo está el clima para ",
+        "userDefined": false
+      },
+      {
+        "text": "ir a la montaña",
+        "alias": "activity",
+        "meta": "@activity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ae14e196-0495-491c-b031-6dd2ec723521",
+    "data": [
+      {
+        "text": "me podrías decir si está bueno el clima para ",
+        "userDefined": false
+      },
+      {
+        "text": "acampar",
+        "alias": "activity",
+        "meta": "@activity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7952023a-c2e9-4e96-ba7b-4114564277d9",
+    "data": [
+      {
+        "text": "el clima me permite ir a ",
+        "userDefined": false
+      },
+      {
+        "text": "acampar",
+        "alias": "activity",
+        "meta": "@activity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5c355eaf-3b93-42ec-8775-30fabaa56b85",
+    "data": [
+      {
+        "text": "me permite el tiempo ir a ",
+        "userDefined": false
+      },
+      {
+        "text": "correr",
+        "alias": "activity",
+        "meta": "@activity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "760ba1a3-7cd6-4dc8-86c9-72a0787775c0",
+    "data": [
+      {
+        "text": "me cae bien el clima para ",
+        "userDefined": false
+      },
+      {
+        "text": "ir a la montaña",
+        "alias": "activity",
+        "meta": "@activity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e4cf771c-fd21-459f-ab8b-6b97b02d5a69",
+    "data": [
+      {
+        "text": "está fresco afuera para ir a ",
+        "userDefined": false
+      },
+      {
+        "text": "correr",
+        "alias": "activity",
+        "meta": "@activity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

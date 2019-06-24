@@ -1,0 +1,150 @@
+[
+  {
+    "id": "944c801c-569f-4244-b05b-e5af280d0373",
+    "data": [
+      {
+        "text": "¿Y ",
+        "userDefined": false
+      },
+      {
+        "text": "paraguas",
+        "alias": "outfit",
+        "meta": "@outfit",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "33f3d348-2b35-421d-a3eb-129bc0436b12",
+    "data": [
+      {
+        "text": "y ",
+        "userDefined": false
+      },
+      {
+        "text": "paraguas",
+        "alias": "outfit",
+        "meta": "@outfit",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "879440c7-6d4d-4d88-b64e-bf2b925c9a33",
+    "data": [
+      {
+        "text": "guantes",
+        "alias": "outfit",
+        "meta": "@outfit",
+        "userDefined": true
+      },
+      {
+        "text": " también",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f969c3c8-3bf2-4fed-8fae-dfb5eb62dabf",
+    "data": [
+      {
+        "text": "y mi ",
+        "userDefined": false
+      },
+      {
+        "text": "paraguas",
+        "alias": "outfit",
+        "meta": "@outfit",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e4c6e3df-3f54-4011-8637-b471869b71ed",
+    "data": [
+      {
+        "text": "y el ",
+        "userDefined": false
+      },
+      {
+        "text": "impermeable",
+        "alias": "outfit",
+        "meta": "@outfit",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "04e66181-4dba-4d1b-824b-ca2ce0bf4bda",
+    "data": [
+      {
+        "text": "pero ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "chaqueta",
+        "alias": "outfit",
+        "meta": "@outfit",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "30da68a9-708e-449b-8f7a-21a73b7e10fc",
+    "data": [
+      {
+        "text": "y unas",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "gafas de sol",
+        "alias": "outfit",
+        "meta": "@outfit",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,104 @@
+[
+  {
+    "id": "b915526c-5055-472f-bd30-52bcc361dc52",
+    "data": [
+      {
+        "text": "weather.condition",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1f5a8acb-d325-4691-b33a-26f14a6fd59d",
+    "data": [
+      {
+        "text": "va a ",
+        "userDefined": false
+      },
+      {
+        "text": "llover",
+        "alias": "condition",
+        "meta": "@weather-condition",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a5dc68a0-74bd-4d68-971a-1f3c43f7a67a",
+    "data": [
+      {
+        "text": "va a ",
+        "userDefined": false
+      },
+      {
+        "text": "nevar",
+        "alias": "condition",
+        "meta": "@weather-condition",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "908147ed-1726-4fd7-8e02-30a468f19a4e",
+    "data": [
+      {
+        "text": "estará ",
+        "userDefined": false
+      },
+      {
+        "text": "soleado",
+        "alias": "condition",
+        "meta": "@weather-condition",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "741d2811-5936-4c09-a2ae-157e4f3ddeae",
+    "data": [
+      {
+        "text": "habrá ",
+        "userDefined": false
+      },
+      {
+        "text": "nubes",
+        "alias": "condition",
+        "meta": "@weather-condition",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d1e26ebb-30f1-4d77-8b88-70160de94b05",
+    "data": [
+      {
+        "text": "y ",
+        "userDefined": false
+      },
+      {
+        "text": "lluvias",
+        "alias": "condition",
+        "meta": "@weather-condition",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

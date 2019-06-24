@@ -1,0 +1,113 @@
+[
+  {
+    "value": "clouds",
+    "synonyms": [
+      "nubes"
+    ]
+  },
+  {
+    "value": "fog",
+    "synonyms": [
+      "niebla"
+    ]
+  },
+  {
+    "value": "foggy",
+    "synonyms": [
+      "brumoso"
+    ]
+  },
+  {
+    "value": "freezing rain",
+    "synonyms": [
+      "lluvia con hielo",
+      "lluvia hielada"
+    ]
+  },
+  {
+    "value": "haze",
+    "synonyms": [
+      "neblina"
+    ]
+  },
+  {
+    "value": "hurricane",
+    "synonyms": [
+      "huracán"
+    ]
+  },
+  {
+    "value": "ice",
+    "synonyms": [
+      "hielo"
+    ]
+  },
+  {
+    "value": "overcast",
+    "synonyms": [
+      "nublada",
+      "nublado"
+    ]
+  },
+  {
+    "value": "rain",
+    "synonyms": [
+      "llover",
+      "lloverá",
+      "lloviendo",
+      "llueve",
+      "lluvia",
+      "lluvias"
+    ]
+  },
+  {
+    "value": "rain snow",
+    "synonyms": [
+      "lluvia con nieve"
+    ]
+  },
+  {
+    "value": "shower",
+    "synonyms": [
+      "ducha",
+      "duchas"
+    ]
+  },
+  {
+    "value": "showers",
+    "synonyms": [
+      "chubascos"
+    ]
+  },
+  {
+    "value": "snow",
+    "synonyms": [
+      "nevada",
+      "nevando",
+      "nevar",
+      "nieve"
+    ]
+  },
+  {
+    "value": "sun",
+    "synonyms": [
+      "sol",
+      "soleado"
+    ]
+  },
+  {
+    "value": "thunderstorm",
+    "synonyms": [
+      "tormenta",
+      "tormenta eléctrica",
+      "tormentas"
+    ]
+  },
+  {
+    "value": "wind",
+    "synonyms": [
+      "ventoso",
+      "viento"
+    ]
+  }
+]

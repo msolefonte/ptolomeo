@@ -1,0 +1,38 @@
+[
+  {
+    "id": "9de61433-8d95-41e6-ac64-93c40c1ee400",
+    "data": [
+      {
+        "text": "qué puedes hacer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "2bbc9abf-d61e-4f82-8e99-412681a114c4",
+    "data": [
+      {
+        "text": "¿qué puedes hacer hacer?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b1d4b43b-7524-40c4-b99f-f65f19d94bd9",
+    "data": [
+      {
+        "text": "qué haces",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

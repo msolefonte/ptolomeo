@@ -1,0 +1,1223 @@
+[
+  {
+    "id": "d10618e7-021c-4c3e-8223-24a5575953cc",
+    "data": [
+      {
+        "text": "va a ",
+        "userDefined": false
+      },
+      {
+        "text": "llover",
+        "alias": "condition",
+        "meta": "@weather-condition",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "este fin de semana",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d2369d52-41d4-4c32-ad28-5cd0ce3c90c4",
+    "data": [
+      {
+        "text": "va a ",
+        "userDefined": false
+      },
+      {
+        "text": "llover",
+        "alias": "condition",
+        "meta": "@weather-condition",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "esta noche",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "80bdf588-8597-4f09-948f-2b8c26ba804b",
+    "data": [
+      {
+        "text": "va a ",
+        "userDefined": false
+      },
+      {
+        "text": "nevar",
+        "alias": "condition",
+        "meta": "@weather-condition",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "por la tarde",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "c38b3ecd-e478-4857-a108-f8cf62926015",
+    "data": [
+      {
+        "text": "habrá ",
+        "userDefined": false
+      },
+      {
+        "text": "tormenta",
+        "alias": "condition",
+        "meta": "@weather-condition",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "esta noche",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 4,
+    "updated": 0
+  },
+  {
+    "id": "3e7f1215-ad60-4380-a812-02297b32dc73",
+    "data": [
+      {
+        "text": "lloverá",
+        "alias": "condition",
+        "meta": "@weather-condition",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "hoy",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "42aaef85-6d0b-4967-9a1a-06b0c1aaac64",
+    "data": [
+      {
+        "text": "me pregunto si ",
+        "userDefined": false
+      },
+      {
+        "text": "lloverá",
+        "alias": "condition",
+        "meta": "@weather-condition",
+        "userDefined": true
+      },
+      {
+        "text": " el ",
+        "userDefined": false
+      },
+      {
+        "text": "12 de agosto",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      },
+      {
+        "text": " en ",
+        "userDefined": false
+      },
+      {
+        "text": "Nueva York",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0f9f7a2d-ee55-49b4-b9a7-89f5baeeb379",
+    "data": [
+      {
+        "text": "ahora más tarde caerá ",
+        "userDefined": false
+      },
+      {
+        "text": "nieve",
+        "alias": "condition",
+        "meta": "@weather-condition",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8e7ba2c0-27f7-4d5e-82de-c78896869a73",
+    "data": [
+      {
+        "text": "estará ",
+        "userDefined": false
+      },
+      {
+        "text": "nublado",
+        "alias": "condition",
+        "meta": "@weather-condition",
+        "userDefined": true
+      },
+      {
+        "text": " a las ",
+        "userDefined": false
+      },
+      {
+        "text": "seis",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2c2e4b1e-34ef-40d0-8b4e-a4a2a430b485",
+    "data": [
+      {
+        "text": "esta noche",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "lloverá",
+        "alias": "condition",
+        "meta": "@weather-condition",
+        "userDefined": true
+      },
+      {
+        "text": " en ",
+        "userDefined": false
+      },
+      {
+        "text": "Madrid",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0b503dc3-40e2-4a94-8f4a-b6b0489da7e0",
+    "data": [
+      {
+        "text": "estará ",
+        "userDefined": false
+      },
+      {
+        "text": "nublado",
+        "alias": "condition",
+        "meta": "@weather-condition",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "hoy",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      },
+      {
+        "text": " en ",
+        "userDefined": false
+      },
+      {
+        "text": "Galicia",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b63024ca-8d03-4b83-9169-e0ecf17137c7",
+    "data": [
+      {
+        "text": "dime si va a estar ",
+        "userDefined": false
+      },
+      {
+        "text": "nublado",
+        "alias": "condition",
+        "meta": "@weather-condition",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "hoy",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cb1e3bab-0f70-4621-b76e-9435fb2ad168",
+    "data": [
+      {
+        "text": "por la noche",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      },
+      {
+        "text": " va a ",
+        "userDefined": false
+      },
+      {
+        "text": "llover",
+        "alias": "condition",
+        "meta": "@weather-condition",
+        "userDefined": true
+      },
+      {
+        "text": " en ",
+        "userDefined": false
+      },
+      {
+        "text": "Madrid",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2ef15ef2-fec4-4176-8652-f8285d52c67b",
+    "data": [
+      {
+        "text": "dime si va a ",
+        "userDefined": false
+      },
+      {
+        "text": "llover",
+        "alias": "condition",
+        "meta": "@weather-condition",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c25a27ff-77fa-4cc7-9d41-addda7402316",
+    "data": [
+      {
+        "text": "esperamos ",
+        "userDefined": false
+      },
+      {
+        "text": "tormentas",
+        "alias": "condition",
+        "meta": "@weather-condition",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "mañana",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3e54ee12-4281-4141-835b-86de5e9fe38f",
+    "data": [
+      {
+        "text": "me dirías si estará ",
+        "userDefined": false
+      },
+      {
+        "text": "nublado",
+        "alias": "condition",
+        "meta": "@weather-condition",
+        "userDefined": true
+      },
+      {
+        "text": " el ",
+        "userDefined": false
+      },
+      {
+        "text": "15 de marzo",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      },
+      {
+        "text": " en ",
+        "userDefined": false
+      },
+      {
+        "text": "Valencia",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b5107a63-6784-451a-b203-291bf5a1c41e",
+    "data": [
+      {
+        "text": "me podrías decir si estará ",
+        "userDefined": false
+      },
+      {
+        "text": "soleado",
+        "alias": "condition",
+        "meta": "@weather-condition",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "93aaf46d-2e57-4335-ac75-676c6e800afc",
+    "data": [
+      {
+        "text": "puedes avisarme si va a ",
+        "userDefined": false
+      },
+      {
+        "text": "llover",
+        "alias": "condition",
+        "meta": "@weather-condition",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "hoy",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "68d45b6d-fcc6-405e-96e4-3e62cfbcd4ed",
+    "data": [
+      {
+        "text": "esta tarde",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      },
+      {
+        "text": " va a estar ",
+        "userDefined": false
+      },
+      {
+        "text": "nublado",
+        "alias": "condition",
+        "meta": "@weather-condition",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "66efe04b-f663-423e-8795-520e9692f98f",
+    "data": [
+      {
+        "text": "avísame ",
+        "userDefined": false
+      },
+      {
+        "text": "si",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " va a ",
+        "userDefined": false
+      },
+      {
+        "text": "llover",
+        "alias": "condition",
+        "meta": "@weather-condition",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "488564c6-be05-47ad-97b6-59cf2ec61117",
+    "data": [
+      {
+        "text": "avisarme si va a estar ",
+        "userDefined": false
+      },
+      {
+        "text": "nublado",
+        "alias": "condition",
+        "meta": "@weather-condition",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cd8e5f91-51d6-43b3-a4d3-49220c01e741",
+    "data": [
+      {
+        "text": "no puedes decirme a qué hora estará ",
+        "userDefined": false
+      },
+      {
+        "text": "soleado",
+        "alias": "condition",
+        "meta": "@weather-condition",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "82dda47d-67d0-43ca-a738-5f0f713c5528",
+    "data": [
+      {
+        "text": "Barcelona",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": " estará ",
+        "userDefined": false
+      },
+      {
+        "text": "nublada",
+        "alias": "condition",
+        "meta": "@weather-condition",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "todo el día",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3d96c526-83ef-4c1e-a43b-0d1d97985b80",
+    "data": [
+      {
+        "text": "esta noche",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      },
+      {
+        "text": " va a ",
+        "userDefined": false
+      },
+      {
+        "text": "nevar",
+        "alias": "condition",
+        "meta": "@weather-condition",
+        "userDefined": true
+      },
+      {
+        "text": " en ",
+        "userDefined": false
+      },
+      {
+        "text": "Roma",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "00726e90-a555-4825-83b6-0e90446c865d",
+    "data": [
+      {
+        "text": "dime si va a ",
+        "userDefined": false
+      },
+      {
+        "text": "nevar",
+        "alias": "condition",
+        "meta": "@weather-condition",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "esta tarde",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c24650a2-4d09-4cf1-a972-38aebdc193af",
+    "data": [
+      {
+        "text": "me",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " vas a decir ",
+        "userDefined": false
+      },
+      {
+        "text": "si",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " va a ",
+        "userDefined": false
+      },
+      {
+        "text": "llover",
+        "alias": "condition",
+        "meta": "@weather-condition",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "esta noche",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "4938d711-cf3f-4d0c-9c26-3e6b19abf3a0",
+    "data": [
+      {
+        "text": "me interesa que me digas si habrá ",
+        "userDefined": false
+      },
+      {
+        "text": "chubascos",
+        "alias": "condition",
+        "meta": "@weather-condition",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "mañana",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "943470a0-81b5-4f42-a07d-2c095da6ddee",
+    "data": [
+      {
+        "text": "dime si es que va a ",
+        "userDefined": false
+      },
+      {
+        "text": "nevar",
+        "alias": "condition",
+        "meta": "@weather-condition",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "esta noche",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "882169cc-1862-4261-916e-bca675de1773",
+    "data": [
+      {
+        "text": "hace ",
+        "userDefined": false
+      },
+      {
+        "text": "sol",
+        "alias": "condition",
+        "meta": "@weather-condition",
+        "userDefined": true
+      },
+      {
+        "text": " en ",
+        "userDefined": false
+      },
+      {
+        "text": "Valladolid",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4de49006-e0e0-473c-b070-d9359d15b5d8",
+    "data": [
+      {
+        "text": "estará ",
+        "userDefined": false
+      },
+      {
+        "text": "nublado",
+        "alias": "condition",
+        "meta": "@weather-condition",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "por la tarde",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "977e2b5b-00a8-41ca-8b39-35d4cad84069",
+    "data": [
+      {
+        "text": "habrá ",
+        "userDefined": false
+      },
+      {
+        "text": "neblina",
+        "alias": "condition",
+        "meta": "@weather-condition",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "esta noche",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      },
+      {
+        "text": " en ",
+        "userDefined": false
+      },
+      {
+        "text": "Barcelona",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "66cd53ef-80d9-4694-9282-d077fecdb4cf",
+    "data": [
+      {
+        "text": "va a haber ",
+        "userDefined": false
+      },
+      {
+        "text": "nevada",
+        "alias": "condition",
+        "meta": "@weather-condition",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "mañana por la mañana",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "31076424-b407-4437-8716-b63049af9322",
+    "data": [
+      {
+        "text": "anoche",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      },
+      {
+        "text": " va a ",
+        "userDefined": false
+      },
+      {
+        "text": "llover",
+        "alias": "condition",
+        "meta": "@weather-condition",
+        "userDefined": true
+      },
+      {
+        "text": " en ",
+        "userDefined": false
+      },
+      {
+        "text": "Moscú",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "abb7332f-fe8a-4d94-9761-dc2f386274a3",
+    "data": [
+      {
+        "text": "dime si ",
+        "userDefined": false
+      },
+      {
+        "text": "lloverá",
+        "alias": "condition",
+        "meta": "@weather-condition",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "hoy",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6ff57848-7742-4213-8382-05d79e97df33",
+    "data": [
+      {
+        "text": "necesito saber si habrá ",
+        "userDefined": false
+      },
+      {
+        "text": "tormenta",
+        "alias": "condition",
+        "meta": "@weather-condition",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "42d8e31d-7ac1-4100-8496-8c90b5817e3b",
+    "data": [
+      {
+        "text": "dime si va a ",
+        "userDefined": false
+      },
+      {
+        "text": "llover",
+        "alias": "condition",
+        "meta": "@weather-condition",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "esta tarde",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b4a37ba7-c8df-471c-8b0e-deff08616ca6",
+    "data": [
+      {
+        "text": "expectamos ",
+        "userDefined": false
+      },
+      {
+        "text": "chubascos",
+        "alias": "condition",
+        "meta": "@weather-condition",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "mañana",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      },
+      {
+        "text": " en ",
+        "userDefined": false
+      },
+      {
+        "text": "Londres",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d99f1c0f-ff07-4284-8cc5-9fd14ab29cb3",
+    "data": [
+      {
+        "text": "dime si va a ",
+        "userDefined": false
+      },
+      {
+        "text": "llover",
+        "alias": "condition",
+        "meta": "@weather-condition",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "esta noche",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "720f0f1b-19a2-441c-88ad-5cea33305d11",
+    "data": [
+      {
+        "text": "quiero saber si va a ",
+        "userDefined": false
+      },
+      {
+        "text": "llover",
+        "alias": "condition",
+        "meta": "@weather-condition",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3b495a53-b7a4-476d-91c7-0da9b1214c2a",
+    "data": [
+      {
+        "text": "quisiera saber si habrá ",
+        "userDefined": false
+      },
+      {
+        "text": "nevada",
+        "alias": "condition",
+        "meta": "@weather-condition",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "debe3c4c-4849-42fe-bb8c-bdd8ad1a4472",
+    "data": [
+      {
+        "text": "el ",
+        "userDefined": false
+      },
+      {
+        "text": "viernes",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "lloverá",
+        "alias": "condition",
+        "meta": "@weather-condition",
+        "userDefined": true
+      },
+      {
+        "text": " en ",
+        "userDefined": false
+      },
+      {
+        "text": "Murcia",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2b5cba24-edd2-470b-82e1-f96fbfe5b25c",
+    "data": [
+      {
+        "text": "hay ",
+        "userDefined": false
+      },
+      {
+        "text": "tormenta",
+        "alias": "condition",
+        "meta": "@weather-condition",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3f1d961c-78ed-4d55-80e9-68c3c3546626",
+    "data": [
+      {
+        "text": "hay ",
+        "userDefined": false
+      },
+      {
+        "text": "huracán",
+        "alias": "condition",
+        "meta": "@weather-condition",
+        "userDefined": true
+      },
+      {
+        "text": " en ",
+        "userDefined": false
+      },
+      {
+        "text": "Miami",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2d9cbbf8-6cd8-4616-ab04-a9ec4b7c5e05",
+    "data": [
+      {
+        "text": "me puedes es decir si ",
+        "userDefined": false
+      },
+      {
+        "text": "llueve",
+        "alias": "condition",
+        "meta": "@weather-condition",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a711adbe-972e-4a91-9b35-149736da8f7c",
+    "data": [
+      {
+        "text": "está ",
+        "userDefined": false
+      },
+      {
+        "text": "lloviendo",
+        "alias": "condition",
+        "meta": "@weather-condition",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,32 @@
+{
+  "id": "83233ae7-ccb6-4a57-9308-d05278feece9",
+  "name": "thank-you",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": [
+            "De nada.",
+            "Es un placer ayudar.",
+            "Estoy para servirte.",
+            "A ti."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

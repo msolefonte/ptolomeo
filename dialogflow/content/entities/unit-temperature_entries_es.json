@@ -1,0 +1,53 @@
+[
+  {
+    "value": "C",
+    "synonyms": [
+      "C",
+      "Celsius",
+      "centígrado",
+      "centígrados"
+    ]
+  },
+  {
+    "value": "De",
+    "synonyms": [
+      "De",
+      "Delisle"
+    ]
+  },
+  {
+    "value": "F",
+    "synonyms": [
+      "F",
+      "Fahrenheit"
+    ]
+  },
+  {
+    "value": "N",
+    "synonyms": [
+      "N",
+      "Newton"
+    ]
+  },
+  {
+    "value": "Ra",
+    "synonyms": [
+      "Ra",
+      "Rankine"
+    ]
+  },
+  {
+    "value": "Re",
+    "synonyms": [
+      "Re",
+      "Réaumur"
+    ]
+  },
+  {
+    "value": "Ro",
+    "synonyms": [
+      "Ro",
+      "Rømer"
+    ]
+  }
+]

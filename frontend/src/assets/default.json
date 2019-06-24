@@ -1,0 +1,38 @@
+{
+  "activeSolution": "Ptolomeo",
+  "solutions": [
+    {
+      "name": "Ptolomeo",
+      "deepLink": "ptolomeo",
+      "iframeUrl": "https://www.worldweatheronline.com/lang/es/",
+      "contextParams": [
+        {
+          "name": "channel",
+          "values": [
+            {
+              "text": "webview",
+              "active": true
+            }
+          ]
+        }
+      ],
+      "locale": "es",
+      "chatTitle": "Ptolomeo",
+      "responseIcon": "person",
+      "userIcon": "fa-comment-alt",
+      "useLocalStorage": "false",
+      "enableLiveChat": "false",
+      "theme": {
+        "primary": "#6B9F55",
+        "secondary": "#9FC920",
+        "accent": "#4CAF50",
+        "error": "#FF5252",
+        "info": "#2196F3",
+        "success": "#4CAF50",
+        "warning": "#FFC107"
+      },
+      "float": "true",
+      "showChatIcons": "true"
+    }
+  ]
+}

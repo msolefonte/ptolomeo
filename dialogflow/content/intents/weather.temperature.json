@@ -1,0 +1,67 @@
+{
+  "id": "cfeb6976-460a-4d30-b43a-f6938e449f4f",
+  "name": "weather.temperature",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "weather.temperature",
+      "affectedContexts": [
+        {
+          "name": "weather",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "7d112e02-fa40-4290-ba09-945e73ec83a4",
+          "required": false,
+          "dataType": "@sys.location",
+          "name": "address",
+          "value": "$address",
+          "isList": false
+        },
+        {
+          "id": "afd4a709-9021-499a-ac9e-7e4f09115067",
+          "required": false,
+          "dataType": "@temperature",
+          "name": "temperature",
+          "value": "$temperature",
+          "isList": false
+        },
+        {
+          "id": "dceedd30-6eeb-4bf4-bc5c-45964817fdbe",
+          "required": false,
+          "dataType": "@sys.date-time",
+          "name": "date-time",
+          "value": "$date-time",
+          "isList": false
+        },
+        {
+          "id": "601a6516-1e85-4864-847b-3948a5107c2b",
+          "required": false,
+          "dataType": "@unit-temperature",
+          "name": "unit",
+          "value": "$unit",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}
