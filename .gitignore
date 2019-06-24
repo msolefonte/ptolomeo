@@ -107,9 +107,13 @@ venv.bak/
 .idea/
 
 # Serverless Framework
-.serverless/
-node_modules/
+*/.serverless/
+
+# JavaScript
+*/node_modules/
 
 # Authorization
-lmbda/authorizer/index.js
-lmbda/weather/config.py
+backend/lmbda/authorizer/index.js
+backend/lmbda/weather/config.py
+frontend/config/cognito/config.json
+frontend/config/dialogflow/config.json
